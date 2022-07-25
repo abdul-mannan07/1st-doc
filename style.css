@@ -1,0 +1,25 @@
+div{
+    background-color: blue;
+    position:fixed;
+    top: 0px;
+    right: 0px;
+   
+}
+img{
+    padding: 5px;
+}
+.spc{
+width: 150px;
+}
+.sec{
+    width: 120px;
+}
+.thrd{
+    width: 70px;
+}
+.frth{
+    width: 220px;
+}
+input{
+    width: 7em;
+}
